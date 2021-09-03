@@ -15,4 +15,4 @@ This image was created by executing the `plot_maps.ipynb` notebook.
 ### TODO
 
 - Provide simple interface to query the higher resolution grids
-- Replace linear interpolation with a curve fit at T > 80
+- Replace linear interpolation with a curve fit at T > 80 C
