@@ -2,7 +2,7 @@
 
 This repo provides electrical conductivity and conductance grids for the ocean and marine sediments at 0.1 deg lateral resolution. These models were presented in this work (accepted [manuscript](Manuscript.pdf) can also be found in this repository)
 
-> Grayver, A. V., (2021). Global 3-D electrical conductivity model of the world ocean and marine sediments. Geochemistry, Geophysics, Geosystems.
+> Grayver, A. V., (2021). Global 3-D electrical conductivity model of the world ocean and marine sediments. Geochemistry, Geophysics, Geosystems, in print, doi:10.1029/2021GC009950
 
 Please cite this publication if you use the provided models in your work.
 
